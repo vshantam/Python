@@ -15,5 +15,5 @@ if __name__=='__main__':
     res=obj.FourDigitCombination()
     #Displaying all the combinations
     for i in numbers:
-        print i ,
+        print (i),
   
